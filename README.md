@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Achraf Essaleh  
+🎓 **M.Eng at IMT Atlantique | B.Sc. Math & CS - Sorbonne**  
+🚀 **Data Science | MLOps | AI | ML | Optimization**  
+🔬 Passionate about building AI solutions, optimizing MLOps pipelines, and solving real-world problems with machine learning.  
+📊 Strong background in **algorithmic problem-solving, mathematical modeling & MLOps**.  
 
-<!--
-**AchrafEssaleh/AchrafEssaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Featured Projects  
+🔹 MLOps & Machine Learning for Clinical Trials  
+🔹 AI Strategy for Pyrat Game (Pyhton)
+🔹 Solar Irradiance Measurement & Sensor Design  
+🔹 Jewel Collection Simulation (Java)  
+🔹 Predator Simulation Game (C)  
+🔹 Automata Operations Management (Python)  
 
-Here are some ideas to get you started:
+### 📫 Connect With Me  
+[LinkedIn](www.linkedin.com/in/achraf-e-305baa283) | Email: Achraf.Essaleh@etu.sorbonne-universite.fr \or\ achraf.essaleh@imt-atlantique.net 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
