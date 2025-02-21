@@ -13,5 +13,6 @@
 -> Automata Operations Management (Python)  
 
 ###  Connect With Me  
-[LinkedIn](www.linkedin.com/in/achraf-e-305baa283) | Email: achraf.essaleh@imt-atlantique.net \or\ Achraf.Essaleh@etu.sorbonne-universite.fr 
+[LinkedIn](www.linkedin.com/in/achraf-e-305baa283) | Email: [achraf.essaleh@imt-atlantique.net](mailto:achraf.essaleh@imt-atlantique.net) | [Achraf.Essaleh@etu.sorbonne-universite.fr](mailto:Achraf.Essaleh@etu.sorbonne-universite.fr)
+
 
