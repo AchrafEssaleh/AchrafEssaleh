@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Achraf Essaleh  
  **M.Eng at IMT Atlantique | B.Sc. Math & CS - Sorbonne University**  
- **Data Science | MLOps | AI | ML | Optimization**  
- Passionate about building AI solutions, optimizing MLOps pipelines, and solving real-world problems with machine learning.  
+ **Data Science |AI | ML | Optimization  | MLOps |**  
+ Passionate about building AI solutions and solving real-world problems with machine learning.  
  Strong background in **algorithmic problem-solving, mathematical modeling & MLOps**.  
 
 ###  Featured Projects  
