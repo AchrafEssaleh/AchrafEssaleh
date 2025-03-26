@@ -1,6 +1,6 @@
 # I'm Achraf Essaleh  
  **M.Eng at IMT Atlantique | B.Sc. Math & CS - Sorbonne University**  
- **Head of Financial Engineering @KRYPTOSHPERE**
+ **Head of Financial Engineering @KRYPTOSHPERE**  
  **Data Science |AI | ML | Optimization  | MLOps |**  
  Passionate about building AI solutions and solving real-world problems with machine learning.  
  Strong background in **algorithmic problem-solving, mathematical modeling**.  
