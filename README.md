@@ -9,7 +9,7 @@
 - **AI-Powered Sleep Quality Detector** — _ongoing_ — *(Personal Project N1)  
   Personal ML project leveraging smartphone data to assess and predict sleep patterns.*
 
-- **Virtual Throwing & Haptic Feedback System** — _ongoing_ — *(IMT Atlantique)  
+- **Virtual Throwing & Haptic Feedback System** *(IMT Atlantique)  
   VR research project exploring motion tracking, feedback loops, and performance metrics.*
 
 - **MLOps & Machine Learning for Clinical Trials** *(IMT Atlantique)  
