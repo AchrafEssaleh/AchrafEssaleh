@@ -6,7 +6,7 @@
  Strong background in **algorithmic problem-solving, mathematical modeling**.  
 
 ###  Featured Projects  
-- **AI-Powered Sleep Quality Detector** — _ongoing_ — *(Personal Project N1)  
+- **AI-Powered Sleep Quality Detector** *(Personal Project N1)  
   Personal ML project leveraging smartphone data to assess and predict sleep patterns.*
 
 - **Virtual Throwing & Haptic Feedback System** *(IMT Atlantique)  
