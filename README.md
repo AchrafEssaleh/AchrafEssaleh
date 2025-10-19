@@ -6,7 +6,7 @@
  Strong background in **algorithmic problem-solving, mathematical modeling**.  
 
 ###  Featured Projects  
-### Featured Projects  
+
 - **AI Assistant for Technical Knowledge Management** *(Collaboration with Solent “French tech company” – Private Repository)*  
   Industry project with Solent, focused on designing an AI-driven knowledge management platform using **RAG** and local **LLMs** to enhance onboarding, documentation traceability, and root cause analysis within complex software projects.
 
