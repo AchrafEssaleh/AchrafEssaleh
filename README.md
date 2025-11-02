@@ -10,7 +10,7 @@
 - **AI Assistant for Technical Knowledge Management** *(Collaboration with Solent “French tech company” – Private Repository)*  
   Industry project with Solent, focused on designing an AI-driven knowledge management platform using **RAG** and local **LLMs** to enhance onboarding, documentation traceability, and root cause analysis within complex software projects.
 
-- **Spotify Top Hits – Unsupervised Learning Challenge** (IMT Atlantique).*
+- **Spotify Top Hits – Unsupervised Learning Challenge** *(IMT Atlantique)*
 Built an unsupervised ML pipeline (PCA, K-Means, GMM) to cluster 2,300 tracks and uncover latent musical patterns.
 
 - **AI-Powered Sleep Quality Detector** *(Personal Project N1)  
