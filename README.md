@@ -1,44 +1,43 @@
-# I'm Achraf Essaleh  
- **M.Eng at IMT Atlantique | B.Sc. Math & CS - Sorbonne University**  
- **Head of Financial Engineering @KRYPTOSHPERE**  
- **Data Science | AI | ML | RAG | LLMs | Optimization  | MLOps |**  
- Passionate about building AI solutions and solving real-world problems with machine learning.  
- Strong background in **algorithmic problem-solving, mathematical modeling**.  
+# Achraf Essaleh
 
-###  Featured Projects  
+**M.Eng, IMT Atlantique | B.Sc. Mathematics & Computer Science, Sorbonne University**
+**Head of Financial Engineering @ KRYPTOSPHERE**
 
-- **AI Assistant for Technical Knowledge Management** *(Collaboration with Solent “French tech company” – Private Repository)*  
-  Industry project with Solent, focused on designing an AI-driven knowledge management platform using **RAG** and local **LLMs** to enhance onboarding, documentation traceability, and root cause analysis within complex software projects.
+**Quantitative Machine Learning | Financial ML | Time-Series & Signal Research**
 
-- **Spotify Top Hits – Unsupervised Learning Challenge** *(IMT Atlantique)*  
-  Built an **unsupervised ML pipeline** (PCA, K-Means, GMM) to cluster 2,300 tracks and uncover latent musical patterns.  
+Strong background in mathematical modeling, statistical learning, and algorithmic problem-solving, applied to financial markets and time-series data.
 
-- **AI-Powered Sleep Quality Detector** *(Personal Project N1)  
-  Personal ML project leveraging smartphone data to assess and predict sleep patterns.*
+---
 
-- **Virtual Throwing & Haptic Feedback System** *(IMT Atlantique)  
-  VR research project exploring motion tracking, feedback loops, and performance metrics.*
+## Quantitative & ML Research
 
-- **MLOps & Machine Learning for Clinical Trials** *(IMT Atlantique)  
-  End-to-end ML pipeline using MLflow, Airflow, and Docker for drug approval prediction.*
+- **QRT Data Challenge — Market-Neutral Alpha Prediction** — *Python* — *(In progress)*
+  Designed a market-neutral prediction pipeline on financial time-series data: engineered temporal features from raw signals, applied regime-based cross-validation to prevent lookahead bias across market structure shifts, and built a boosting ensemble optimized for long/short strategy performance.
+  *(Repo being finalized — link coming soon)*
 
-- **AI Strategy for PyRat Game** — *Python* — *(IMT Atlantique)  
-  Heuristic and reactive AI agents for dynamic pathfinding in maze-like environments.*
+- **Spotify Top Hits — Unsupervised Learning Challenge** — *(IMT Atlantique)*
+  Built an unsupervised ML pipeline (PCA, K-Means, GMM) to cluster 2,300 tracks and uncover latent structure in musical feature space.
 
-- **Solar Irradiance Measurement & Sensor Design** *(IMT Atlantique)  
-  Arduino-based system for real-time solar radiation tracking and visualization.*
+- **MLOps for Clinical Trials** — *(IMT Atlantique)*
+  End-to-end ML pipeline (MLflow, Airflow, Docker) for drug approval prediction, covering experiment tracking, orchestration, and reproducible deployment.
 
-- **Jewel Collection Simulation** — *Java* — *(Sorbonne University)  
-  Object-oriented multi-agent simulation with movement, teleportation, and scoring.*
+---
 
-- **Predator Simulation Game** — *C* — *(Sorbonne University)  
-  Ecosystem-based simulation involving animals, behavior rules, and grid dynamics.*
+## Other Projects
 
-- **Automata Operations Management** — *Python* — *(Sorbonne University)  
-  Finite automata construction, determinization, and language operations.*
+*Applied ML, systems, and coursework projects spanning NLP, simulation, and embedded systems.*
 
+- **AI Assistant for Technical Knowledge Management** — *(Industry collaboration with Solent, private repo)* — RAG-based knowledge management platform using local LLMs for documentation traceability and root cause analysis.
+- **AI-Powered Sleep Quality Detector** — Personal project using smartphone sensor data to predict sleep patterns.
+- **Virtual Throwing & Haptic Feedback System** — *(IMT Atlantique)* — VR motion tracking and feedback-loop research.
+- **AI Strategy for PyRat Game** — *Python* — *(IMT Atlantique)* — Heuristic and reactive agents for dynamic pathfinding.
+- **Solar Irradiance Measurement & Sensor Design** — *(IMT Atlantique)* — Arduino-based real-time solar radiation tracking.
+- **Jewel Collection Simulation** — *Java* — *(Sorbonne Université)* — Multi-agent OOP simulation.
+- **Predator Simulation Game** — *C* — *(Sorbonne Université)* — Ecosystem simulation with behavior rules and grid dynamics.
+- **Automata Operations Management** — *Python* — *(Sorbonne Université)* — Finite automata construction, determinization, and language operations.
 
-###  Connect With Me  
-[LinkedIn](www.linkedin.com/in/achraf-e-305baa283) | Email: [achraf.essaleh@imt-atlantique.net](mailto:achraf.essaleh@imt-atlantique.net) | [Achraf.Essaleh@etu.sorbonne-universite.fr](mailto:Achraf.Essaleh@etu.sorbonne-universite.fr)
+---
 
+## Connect
 
+[LinkedIn](https://www.linkedin.com/in/achraf-e-305baa283) · [achraf.essaleh@imt-atlantique.net](mailto:achraf.essaleh@imt-atlantique.net) · [Achraf.Essaleh@etu.sorbonne-universite.fr](mailto:Achraf.Essaleh@etu.sorbonne-universite.fr)
