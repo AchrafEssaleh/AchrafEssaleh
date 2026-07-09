@@ -3,17 +3,16 @@
 **M.Eng, IMT Atlantique | B.Sc. Mathematics & Computer Science, Sorbonne University**
 **Head of Financial Engineering @ KRYPTOSPHERE**
 
-**Quantitative Machine Learning | Financial ML | Time-Series & Signal Research**
+**Quantitative Machine Learning | Financial ML | Time Series & Signal Research**
 
-Strong background in mathematical modeling, statistical learning, and algorithmic problem-solving, applied to financial markets and time-series data.
+Strong background in mathematical modeling, statistical learning, and algorithmic problem solving, applied to financial markets and time-series data.
 
 ---
 
 ## Quantitative & ML Research
 
 - **QRT Data Challenge — Market-Neutral Alpha Prediction** — *Python* — *(In progress)*
-  Designed a market-neutral prediction pipeline on financial time-series data: engineered temporal features from raw signals, applied regime-based cross-validation to prevent lookahead bias across market structure shifts, and built a boosting ensemble optimized for long/short strategy performance.
-  *(Repo being finalized — link coming soon)*
+  Designed a market neutral prediction pipeline on financial time series data: engineered temporal features from raw signals, applied regime based cross validation to prevent lookahead bias across market structure shifts, and built a boosting ensemble optimized for long/short strategy performance.
 
 - **Spotify Top Hits — Unsupervised Learning Challenge** — *(IMT Atlantique)*
   Built an unsupervised ML pipeline (PCA, K-Means, GMM) to cluster 2,300 tracks and uncover latent structure in musical feature space.
