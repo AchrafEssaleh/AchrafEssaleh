@@ -5,7 +5,7 @@
 
 **Quantitative Machine Learning | Financial ML | Time Series & Signal Research**
 
-Strong background in mathematical modeling, statistical learning, and algorithmic problem solving, applied to financial markets and time-series data.
+Strong background in mathematical modeling, statistical learning, and algorithmic problem solving.
 
 ---
 
@@ -15,7 +15,7 @@ Strong background in mathematical modeling, statistical learning, and algorithmi
   Designed a market neutral prediction pipeline on financial time series data: engineered temporal features from raw signals, applied regime based cross validation to prevent lookahead bias across market structure shifts, and built a boosting ensemble optimized for long/short strategy performance.
 
 - **Spotify Top Hits — Unsupervised Learning Challenge** — *(IMT Atlantique)*
-  Built an unsupervised ML pipeline (PCA, K-Means, GMM) to cluster 2,300 tracks and uncover latent structure in musical feature space.
+  Built an unsupervised ML pipeline (PCA, K-Means) to cluster 2,300 tracks and uncover latent structure in musical feature space.
 
 - **MLOps for Clinical Trials** — *(IMT Atlantique)*
   End-to-end ML pipeline (MLflow, Airflow, Docker) for drug approval prediction, covering experiment tracking, orchestration, and reproducible deployment.
