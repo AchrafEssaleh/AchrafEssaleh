@@ -11,7 +11,7 @@ Strong background in mathematical modeling, statistical learning, and algorithmi
 
 ## Quantitative & ML Research
 
-- **QRT Data Challenge — Market-Neutral Alpha Prediction** — *Python* — *(In progress)*
+- **QRT Data Challenge — Market-Neutral Alpha Prediction** — *Python* — 
   Designed a market neutral prediction pipeline on financial time series data: engineered temporal features from raw signals, applied regime based cross validation to prevent lookahead bias across market structure shifts, and built a boosting ensemble optimized for long/short strategy performance.
 
 - **Spotify Top Hits — Unsupervised Learning Challenge** — *(IMT Atlantique)*
