@@ -14,6 +14,8 @@ Strong background in mathematical modeling, statistical learning, and algorithmi
 - **QRT Data Challenge — Market-Neutral Alpha Prediction** — *Python* — 
   Designed a market neutral prediction pipeline on financial time series data: engineered temporal features from raw signals, applied regime based cross validation to prevent lookahead bias across market structure shifts, and built a boosting ensemble optimized for long/short strategy performance.
 
+- **AI Assistant for Technical Knowledge Management** — *(Industry collaboration with Solent, private repo)* — RAG-based knowledge management platform using local LLMs for documentation traceability and root cause analysis.
+  
 - **Spotify Top Hits — Unsupervised Learning Challenge** — *(IMT Atlantique)*
   Built an unsupervised ML pipeline (PCA, K-Means) to cluster 2,300 tracks and uncover latent structure in musical feature space.
 
@@ -26,7 +28,6 @@ Strong background in mathematical modeling, statistical learning, and algorithmi
 
 *Applied ML, systems, and coursework projects spanning NLP, simulation, and embedded systems.*
 
-- **AI Assistant for Technical Knowledge Management** — *(Industry collaboration with Solent, private repo)* — RAG-based knowledge management platform using local LLMs for documentation traceability and root cause analysis.
 - **AI-Powered Sleep Quality Detector** — Personal project using smartphone sensor data to predict sleep patterns.
 - **Virtual Throwing & Haptic Feedback System** — *(IMT Atlantique)* — VR motion tracking and feedback-loop research.
 - **AI Strategy for PyRat Game** — *Python* — *(IMT Atlantique)* — Heuristic and reactive agents for dynamic pathfinding.
