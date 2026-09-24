@@ -10,12 +10,14 @@ Strong background in mathematical modeling, statistical learning, and algorithmi
 ---
 
 ## Quantitative & ML Research
-- **CFM Data Challenge: End of Session Return Prediction** — *Ongoing | Python, ML , Quantitative Finance* — Developing a three class classification pipeline to predict US equity end of session return direction from 53 intraday five minute returns, with a focus on statistical feature engineering and leakage aware validation.
+- **CFM Data Challenge: End of Session Return Prediction** — *Ongoing | Python, ML , Quantitative Finance*
+Developing a three class classification pipeline to predict US equity end of session return direction from 53 intraday five minute returns, with a focus on statistical feature engineering and leakage aware validation.
 
 - **QRT Data Challenge: Market Neutral Alpha Prediction** — *Python, Scikit learn, LightGBM, Quant ML* —
-  Built a leakage aware preprocessing and feature engineering pipeline on anonymized financial time series (residual returns and relative volumes), including missingness diagnosis , data quality checks, and volatility, momentum, and reversal features grounded in financial theory. Benchmarked logistic regression, random forest, and LightGBM, with feature importance and ablation studies validating engineered signals. Currently extending to cross validated performance estimates and a long/short strategy evaluation.
+Built a leakage aware feature engineering pipeline on anonymized financial time series, including missingness diagnosis (MCAR/MAR/MNAR) and volatility, momentum, and reversal features grounded in financial theory. Benchmarked logistic regression, random forest, and LightGBM, with feature importance and ablation studies validating engineered signals.
 
-- **AI Assistant for Technical Knowledge Management** — *(Industry collaboration with Solent, private repo)* — RAG based knowledge management platform using local LLMs for documentation traceability and root cause analysis.
+- **AI Assistant for Technical Knowledge Management** — *(Industry collaboration with Solent, private repo)*
+RAG based knowledge management platform using local LLMs for documentation traceability and root cause analysis.
   
 - **Spotify Top Hits — Unsupervised Learning Challenge** — *(IMT Atlantique)*
   Built an unsupervised ML pipeline (PCA, K-Means) to cluster 2,300 tracks and uncover latent structure in musical feature space.
