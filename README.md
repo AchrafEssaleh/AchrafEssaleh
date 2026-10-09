@@ -31,7 +31,7 @@ Personal participation in public data challenges set by quantitative investment 
 
 ## Industry project
 
-**AI Assistant for Technical Knowledge Management, in collaboration with SOLENT** · Sep. 2025 – Jan. 2026
+**AI Assistant for Technical Knowledge Management, in collaboration with SOLENT** 
 - On premise RAG pipeline (ChromaDB, Jina v3) over Redmine data.
 - RAG Fusion retriever (multi query expansion, RRF) with Self RAG to filter out of context answers.
 - Local LLM via Ollama: no SaaS dependency, client data stays on premise.
