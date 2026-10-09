@@ -2,8 +2,6 @@
 
 **Final year engineering student (M.Eng), IMT Atlantique** · B.Sc. Mathematics & Computer Science, Sorbonne Université
 Quantitative data science · Machine learning · Time series
-
-Looking for a 6 month final year internship in quantitative data science / machine learning, starting April 2027.
 ---
 
 ## Experience
