@@ -1,6 +1,6 @@
 # Achraf Essaleh
 
-**Final year engineering student (M.Eng), IMT Atlantique** · B.Sc. Mathematics & Computer Science, Sorbonne Université
+**Final year engineering student (M.Eng) @IMT Atlantique** · B.Sc. Mathematics & Computer Science @Sorbonne Université
 Quantitative data science · Machine learning · Time series
 ---
 
