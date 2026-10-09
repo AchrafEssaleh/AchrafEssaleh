@@ -1,47 +1,68 @@
 # Achraf Essaleh
 
-**M.Eng, IMT Atlantique | B.Sc. Mathematics & Computer Science, Sorbonne University**
-**Head of Financial Engineering @ KRYPTOSPHERE**
+**Final-year engineering student (M.Eng), IMT Atlantique** · B.Sc. Mathematics & Computer Science, Sorbonne Université
+Quantitative data science · Machine learning · Time series
 
-**Quantitative Machine Learning | Financial ML | Time Series & Signal Research**
+Looking for a 6 month final year internship in quantitative data science / machine learning, starting April 2027.
+---
 
-Strong background in mathematical modeling, statistical learning, and algorithmic problem solving.
+## Experience
+
+**Data Scientist Intern, (Portfolio Management team)** · Paris 
+- Built a constrained decision tree engine from scratch in Python, prioritising explainability.
+- Designed a modular OOP architecture with an interactive Plotly interface used by business analysts.
+- 82% test accuracy predicting client profitability on a 52K row production portfolio dataset.
+- Deployed to production via Databricks Apps.
+
+*Code is proprietary and not published.*
+---
+## Side projects: quantitative ML data challenges
+
+Personal participation in public data challenges set by quantitative investment firms. 
+
+**CFM challenge: End of Session Return Prediction** · Ongoing · Python, scikit-learn
+- Three-class classification of US equity end of session return direction from 53 intraday five minute returns.
+- Statistical feature engineering and strict train/test separation across days and stocks to avoid leakage between market regimes.
+
+**QRT challenge: Market Neutral Alpha Prediction** · Python, scikit-learn, LightGBM
+- Leakage aware pipeline on anonymised financial time series: missingness diagnosis, imputation, quality checks.
+- Volatility, momentum and reversal features from residual returns.
+- Benchmarked logistic regression, random forest and LightGBM; feature importance and ablation studies to validate the engineered signals.
 
 ---
 
-## Quantitative & ML Research
-- **CFM Data Challenge: End of Session Return Prediction** — *Ongoing | Python, ML , Quantitative Finance*
+## Industry project
 
-Developing a three class classification pipeline to predict US equity end of session return direction from 53 intraday five minute returns, with a focus on statistical feature engineering and leakage aware validation.
+**AI Assistant for Technical Knowledge Management, in collaboration with SOLENT** · Sep. 2025 – Jan. 2026
+- On premise RAG pipeline (ChromaDB, Jina v3) over Redmine data.
+- RAG Fusion retriever (multi query expansion, RRF) with Self RAG to filter out of context answers.
+- Local LLM via Ollama: no SaaS dependency, client data stays on premise.
 
-- **QRT Data Challenge: Market Neutral Alpha Prediction** — *Python, Scikit learn, LightGBM, Quant ML* —
-
-Built a leakage aware feature engineering pipeline on anonymized financial time series, including missingness diagnosis and volatility, momentum, and reversal features grounded in financial theory. Benchmarked logistic regression, random forest, and LightGBM, with feature importance and ablation studies validating engineered signals.
-
-- **AI Assistant for Technical Knowledge Management** — *(Industry collaboration with Solent, private repo)*
-  
-RAG based knowledge management platform using local LLMs for documentation traceability and root cause analysis.
-  
+*Private repository.*
 ---
 
-## Other Projects
+## Coursework and other projects
 
-*Applied ML, systems, and coursework projects spanning NLP, simulation, and embedded systems.*
+**Machine learning**
+- **MLOps for Clinical Trials** (IMT Atlantique): end-to-end pipeline for drug approval prediction with MLflow, Airflow and Docker (experiment tracking, orchestration, reproducible deployment).
+- **Spotify Top Hits, unsupervised learning** (IMT Atlantique): PCA and K-Means on 2,300 tracks.
+- **Sleep Quality Detector** (personal): sleep pattern prediction from smartphone sensor data.
 
-- **Spotify Top Hits — Unsupervised Learning Challenge** — *(IMT Atlantique)*
-  Built an unsupervised ML pipeline (PCA, K-Means) to cluster 2,300 tracks and uncover latent structure in musical feature space.
-- **MLOps for Clinical Trials** — *(IMT Atlantique)*
-  End-to-end ML pipeline (MLflow, Airflow, Docker) for drug approval prediction, covering experiment tracking, orchestration, and reproducible deployment.
-- **AI-Powered Sleep Quality Detector** — Personal project using smartphone sensor data to predict sleep patterns.
-- **Virtual Throwing & Haptic Feedback System** — *(IMT Atlantique)* — VR motion tracking and feedback-loop research.
-- **AI Strategy for PyRat Game** — *Python* — *(IMT Atlantique)* — Heuristic and reactive agents for dynamic pathfinding.
-- **Solar Irradiance Measurement & Sensor Design** — *(IMT Atlantique)* — Arduino-based real-time solar radiation tracking.
-- **Jewel Collection Simulation** — *Java* — *(Sorbonne Université)* — Multi-agent OOP simulation.
-- **Predator Simulation Game** — *C* — *(Sorbonne Université)* — Ecosystem simulation with behavior rules and grid dynamics.
-- **Automata Operations Management** — *Python* — *(Sorbonne Université)* — Finite automata construction, determinization, and language operations.
+**Systems, simulation and algorithms**
+- **AI Strategy for PyRat** (IMT Atlantique, Python): heuristic and reactive agents for dynamic pathfinding.
+- **Virtual Throwing & Haptic Feedback** (IMT Atlantique): VR motion tracking and feedback loops.
+- **Solar Irradiance Measurement** (IMT Atlantique): Arduino-based real-time sensor system.
+- **Jewel Collection Simulation** (Sorbonne, Java): multi-agent OOP simulation.
+- **Predator Simulation** (Sorbonne, C): ecosystem simulation on a grid.
+- **Automata Operations** (Sorbonne, Python): finite automata construction and determinization.
 
 ---
 
-## Connect
+## Activities
 
-[LinkedIn](https://www.linkedin.com/in/achraf-e-305baa283) · [achraf.essaleh@imt-atlantique.net](mailto:achraf.essaleh@imt-atlantique.net) · [Achraf.Essaleh@etu.sorbonne-universite.fr](mailto:Achraf.Essaleh@etu.sorbonne-universite.fr)
+- Head of the Financial Engineering Division, KRYPTOSPHERE (2025 – Jan. 2026)
+
+---
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/achraf-essaleh-305baa283) · achraf.essaleh@imt-atlantique.net
