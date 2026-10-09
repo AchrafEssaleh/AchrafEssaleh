@@ -1,6 +1,6 @@
 # Achraf Essaleh
 
-**Final-year engineering student (M.Eng), IMT Atlantique** · B.Sc. Mathematics & Computer Science, Sorbonne Université
+**Final year engineering student (M.Eng), IMT Atlantique** · B.Sc. Mathematics & Computer Science, Sorbonne Université
 Quantitative data science · Machine learning · Time series
 
 Looking for a 6 month final year internship in quantitative data science / machine learning, starting April 2027.
@@ -41,10 +41,16 @@ Personal participation in public data challenges set by quantitative investment 
 *Private repository.*
 ---
 
+## Activities
+
+- Head of the Financial Engineering Division, KRYPTOSPHERE (2025 – Jan. 2026)
+
+---
+
 ## Coursework and other projects
 
 **Machine learning**
-- **MLOps for Clinical Trials** (IMT Atlantique): end-to-end pipeline for drug approval prediction with MLflow, Airflow and Docker (experiment tracking, orchestration, reproducible deployment).
+- **MLOps for Clinical Trials** (IMT Atlantique): end to end pipeline for drug approval prediction with MLflow, Airflow and Docker (experiment tracking, orchestration, reproducible deployment).
 - **Spotify Top Hits, unsupervised learning** (IMT Atlantique): PCA and K-Means on 2,300 tracks.
 - **Sleep Quality Detector** (personal): sleep pattern prediction from smartphone sensor data.
 
@@ -58,11 +64,6 @@ Personal participation in public data challenges set by quantitative investment 
 
 ---
 
-## Activities
-
-- Head of the Financial Engineering Division, KRYPTOSPHERE (2025 – Jan. 2026)
-
----
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/achraf-essaleh-305baa283) · achraf.essaleh@imt-atlantique.net
