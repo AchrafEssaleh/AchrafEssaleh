@@ -3,17 +3,6 @@
 **Final year engineering student (M.Eng) @IMT Atlantique** · B.Sc. Mathematics & Computer Science @Sorbonne Université
 Quantitative data science · Machine learning · Time series
 ---
-
-## Experience
-
-**Data Scientist Intern, (Portfolio Management team)** · Paris 
-- Built a constrained decision tree engine from scratch in Python, prioritising explainability.
-- Designed a modular OOP architecture with an interactive Plotly interface used by business analysts.
-- 82% test accuracy predicting client profitability on a 52K row production portfolio dataset.
-- Deployed to production via Databricks Apps.
-
-*Code is proprietary and not published.*
----
 ## Side projects: quantitative ML data challenges
 
 Personal participation in public data challenges set by quantitative investment firms. 
@@ -37,6 +26,17 @@ Personal participation in public data challenges set by quantitative investment 
 - Local LLM via Ollama: no SaaS dependency, client data stays on premise.
 
 *Private repository.*
+---
+
+## Experience
+
+**Data Scientist Intern, (Portfolio Management team)** · Paris 
+- Built a constrained decision tree engine from scratch in Python, prioritising explainability.
+- Designed a modular OOP architecture with an interactive Plotly interface used by business analysts.
+- 82% test accuracy predicting client profitability on a 52K row production portfolio dataset.
+- Deployed to production via Databricks Apps.
+
+*Code is proprietary and not published.*
 ---
 
 ## Activities
